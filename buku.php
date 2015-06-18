@@ -57,7 +57,7 @@ body.custom-background { background-color: #0066CC; }
 					</div>
 					<div class="span-16 last" style=" text-align:left;">
 							<h1><a href="http://unesa.ac.id/">JURUSAN TEKNIK INFORMATIKA</a></h1>
-							<h2>Fakultas Teknik </h2>
+							<h2>Fakultas Teknik Informatika </h2>
 							<h2>Universitas Negeri Surabaya </h2>
 							
 				  </div>
